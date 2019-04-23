@@ -1,0 +1,12 @@
+data_p/alice/p_1.wav
+data_p/alice/p_1_0.wav
+data_p/alice/p_1_1.wav
+data_p/alice/p_1_2.wav
+data_p/simrita/p_2.wav
+data_p/simrita/p_2_0.wav
+data_p/simrita/p_2_1.wav
+data_p/simrita/p_2_2.wav
+data_p/hitesh/p_3.wav
+data_p/hitesh/p_3_0.wav
+data_p/hitesh/p_3_1.wav
+data_p/hitesh/p_3_2.wav

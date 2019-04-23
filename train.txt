@@ -1,0 +1,15 @@
+data/alice/al_1.wav
+data/alice/al_2.wav
+data/alice/al_3.wav
+data/alice/al_4.wav
+data/alice/al_5.wav
+data/simrita/si_1.wav
+data/simrita/si_2.wav
+data/simrita/si_3.wav
+data/simrita/si_4.wav
+data/simrita/si_5.wav
+data/hitesh/hi_1.wav
+data/hitesh/hi_2.wav
+data/hitesh/hi_3.wav
+data/hitesh/hi_4.wav
+data/hitesh/hi_5.wav

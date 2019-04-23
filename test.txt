@@ -1,0 +1,3 @@
+data/alice/al_6.wav
+data/simrita/si_6.wav
+data/hitesh/hi_6.wav
